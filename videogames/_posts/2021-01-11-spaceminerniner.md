@@ -38,9 +38,6 @@ Use the links below to play **Space Miner Niner** in a browser.
 
 *NOTE:  Playing the game in a browser can be slower than when played locally.*
 
-[Space Miner Niner](https://jeffreychaplin.github.io/SpaceMinerNiner/){:target="_blank"}
+[Play In Browser](https://jeffreychaplin.github.io/SpaceMinerNiner/){:target="_blank"}
 
 [My Ludum Dare 40 Entry](https://ldjam.com/events/ludum-dare/40/space-miner-niner){:target="_blank"}
-
-
- 
