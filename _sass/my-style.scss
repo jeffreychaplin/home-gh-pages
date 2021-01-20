@@ -13,6 +13,11 @@
   }
 }
 
+.sidebar-bg {
+  background: linear-gradient(225deg, rgba(0,0,0,1) 0%, rgba(0,0,100,1) 80%);
+  background-position: center;
+}
+
 .content .aspect-ratio img {
     margin: 0;
     width: 100%;
