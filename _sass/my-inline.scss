@@ -3,6 +3,11 @@
   text-shadow: rgba(0, 0, 0, 0.25) 0.1rem 0.1rem 0.15rem;
 }
 
+.sidebar-bg {
+	background: linear-gradient(225deg, rgba(0,0,0,1) 0%, rgba(0,0,100,1) 80%);
+	background-position: center;
+}
+
 .sidebar-about .avatar {
 	width: 8rem;
 	height: 8rem;
