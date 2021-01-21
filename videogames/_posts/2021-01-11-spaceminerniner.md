@@ -16,15 +16,15 @@ tags: []
 
 ## Information
 
-*Space Miner Niner* is a game I originally created for *Ludum Dare 40* on the weekend beginning Friday December 1st 2017.  The theme for Ludum Dare 40 was "The more you have, the worse it is".  
+*Space Miner Niner* is a game I originally created for *Ludum Dare 40* during the weekend of Friday December 1st 2017.  The theme for Ludum Dare 40 was "The more you have, the worse it is".  
 
 I've wanted to make an asteroids type game for a long time and thought maybe this would be a good opportunity to do so.  My thinking was that as you broke asteroids into smaller ones, the smaller ones could not be destroyed and would cause you damage.  Well... unfortunately I was not able to finish the original version for the game jam. With version 2, I was able to get something that "worked", however, it was still nothing like I really had envisioned.  Finally, years later, I was able to get the game to a place where I am pleased with it. 
 
 ## Ludum Dare
 
-[Ludum Dare](https://ldjam.com/){:target="_blank"} is an online event where games are made from scratch in a weekend
+[Ludum Dare](https://ldjam.com/){:target="_blank"} is an online event where games are made from scratch in a weekend.
 
-## Story Of The Game
+## About The Game
 
 Well, it may not be the way I imagined, but I'm finally here... SPACE!
 Hired by one of the largest mining corporations on earth, my job now is to collect as many minerals as possible, earning lots of money (for both me and my employer) every time I transfer them to the freighter.  And with my standard contract signed and filed, I'm allowed multiple ship upgrades as I earn more and more money.  It's a pretty good gig and I hope if all goes well I will become one of the elite... one of the best space miners around.  I will become a...
