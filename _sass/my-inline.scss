@@ -8,6 +8,10 @@
 	background-position: center;
 }
 
+.sidebar-about {
+	margin-bottom: 3rem;
+}
+
 .sidebar-about .avatar {
 	width: 8rem;
 	height: 8rem;
@@ -17,6 +21,7 @@
     position: relative;
 	z-index: 1;
 	padding: unset;
+	margin-bottom: 0.75rem;
 }
 
 .sidebar-about>a.sidebar-title {

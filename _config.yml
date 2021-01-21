@@ -28,7 +28,7 @@ description:           >
   This site contains some information about me.
 
 # A shorter description for the sidebar.
-tagline:               Hi!
+tagline:               Jeffrey
 
 # A list of keywords for your blog
 keywords:              []
@@ -56,6 +56,8 @@ menu:
     url:               /videogames/
   - title:             Tabletop Games
     url:               /tabletopgames/
+  - title:             3D Modeling
+    url:               /3dmodeling/  
   - title:             About
     url:               /about/
 
