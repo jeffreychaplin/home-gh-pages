@@ -16,7 +16,9 @@ tags: []
 
 ## Information
 
-*Space Miner Niner* is a game I originally created for *Ludum Dare 40* on the weekend beginning Friday December 1st 2017.  The theme for Ludum Dare 40 was "The more you have, the worse it is".  I've wanted to make an asteroids type game for a long time and thought maybe this would be a good opportunity to do so.  My thinking was that as you broke asteroids into smaller ones, the smaller ones could not be destroyed and would cause you damage.  Well... unfortunately I was not able to finish the original version for the game jam. With version 2, I was able to get something that "worked", however, it was still nothing like I really had envisioned.  Finally, years later, I was able to get the game to a place where I am pleased with it. 
+*Space Miner Niner* is a game I originally created for *Ludum Dare 40* on the weekend beginning Friday December 1st 2017.  The theme for Ludum Dare 40 was "The more you have, the worse it is".  
+
+I've wanted to make an asteroids type game for a long time and thought maybe this would be a good opportunity to do so.  My thinking was that as you broke asteroids into smaller ones, the smaller ones could not be destroyed and would cause you damage.  Well... unfortunately I was not able to finish the original version for the game jam. With version 2, I was able to get something that "worked", however, it was still nothing like I really had envisioned.  Finally, years later, I was able to get the game to a place where I am pleased with it. 
 
 ## Ludum Dare
 
@@ -36,7 +38,7 @@ SPACE MINER NINER!
 
 Use the links below to play **Space Miner Niner** in a browser.
 
-*NOTE:  Playing the game in a browser can be slower than when played locally.*
+*NOTE:  The game in a browser can load/play slower than when played locally.*
 
 [Play In Browser](https://jeffreychaplin.github.io/SpaceMinerNiner/){:target="_blank"}
 
