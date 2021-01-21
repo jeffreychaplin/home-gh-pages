@@ -34,6 +34,12 @@ SPACE MINER NINER!
 
 ![image 2]({{ site.baseurl }}/assets/img/videogames/SpaceMinerNinerStill_02.png)
 
+<div class="lead aspect-ratio sixteen-nine">
+          
+<iframe width="1903" height="711" src="https://www.youtube.com/embed/CO2p3XXyolo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
 ## Get It Now
 
 Use the links below to play **Space Miner Niner** in a browser.
