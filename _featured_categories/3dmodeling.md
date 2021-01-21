@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Mobile Apps
+title: 3D Modeling
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: mobileapps
+slug: 3dmodeling
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  These are some of the mobile apps that I've worked on, both professionally and personally.
+  These are some of the 3d models that I've worked on.
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
