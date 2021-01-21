@@ -8,18 +8,17 @@ redirect_from:
 
 # About
 
-We like to make stuff!
+Hi!
 
-Currently we are working on mobile apps, video games and tabletop games. 
+My name is Jeffrey Chaplin and I've been a software developer for over 30+ years.
+
+Currently I'm working on mobile apps, video games and tabletop games (with my family). 
 
 ![Jeffrey](/assets/img/authors/jeffrey-128.png)
-![Jackie](/assets/img/authors/jackie-128.png)
-![Olivia](/assets/img/authors/olivia-128.png)
-![Natalie](/assets/img/authors/natalie-128.png) 
 
 ## Tools / Services
 
-Some of the tools and services we like to use.
+Some of the tools and services I like to use.
 
 ![Unity]({{ site.baseurl }}/assets/img/tools/LinkUnity.png "Unity")
 ![Ionic]({{ site.baseurl }}/assets/img/tools/LinkIonic.png "Ionic")
