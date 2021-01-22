@@ -3,7 +3,7 @@ layout: post
 title: The Circuit
 image: /assets/img/videogames/TheCircuit.png
 description: >
-  A video game about charges.
+  A video game about electric charges.
 sitemap: false
 categories: []
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 ## Information
 
-*The Circuit* is a game I created for *Ludum Dare 39* during the weekend of Friday July 28th 2017.  The theme for Ludum Dare 42 was **"Running out of Power"**.  
+*The Circuit* is a game I created for *Ludum Dare 39* during the weekend of Friday July 28th 2017.  The theme for Ludum Dare 39 was **"Running out of Power"**.  
 
 This was my first game jam competition... and it was so much fun!  Thanks Justin for talking me into doing it!
 
@@ -33,12 +33,12 @@ You are the orange charge. Avoid the red charge. Use the 1, 2 and 3 keys to move
 <iframe src="https://www.youtube.com/embed/u2E5rM9Ph7k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
- 
+
 ## Get It Now
 
-Use the links below to play **The Circuit** in a browser.
+Use the links below to play **The Circuit**.
 
-*NOTE:  The game in a browser can load/play slower than when played locally.*
+***NOTE:***  *The game in a browser can load/play quite a bit slower than when played locally.*
 
 [Play In Browser](https://jeffreychaplin.github.io/){:target="_blank"}
 

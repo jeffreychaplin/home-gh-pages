@@ -10,7 +10,7 @@ slug: tabletopgames
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  These are some of the tabletop games that my family & I have created.
+  These are some of the tabletop games that my family and I have created.
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true

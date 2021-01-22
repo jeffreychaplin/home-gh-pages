@@ -16,7 +16,7 @@ tags: []
 
 ## Information
 
-*Space Quest* is a game I created with my daughter for a school science project.  The game was all her idea and she did all of the artwork, I helped scan her artwork and taught her some basics of Unity as she learned some C# programming development.  It was a lot of fun working with her on this project and we are both very pleased with the result.
+*Space Quest* is a game I created with my daughter for one of her school science projects.  The game was all her idea and she did all of the artwork, I helped scan her artwork for use in the game and taught her some basics of Unity as she learned some C# programming development.  It was a lot of fun working with her on this project and we are both very pleased with the result.
 
 ## About The Game
 
@@ -24,8 +24,8 @@ tags: []
  
 ## Get It Now
 
-Use the links below to play **Space Quest** in a browser.
+Use the links below to play **Space Quest**.
 
-*NOTE:  The game in a browser can load/play slower than when played locally.*
+***NOTE:***  *The game in a browser can load/play quite a bit slower than when played locally.*
 
 [Play In Browser](https://jeffreychaplin.github.io/SpaceQuest_Typing/){:target="_blank"}

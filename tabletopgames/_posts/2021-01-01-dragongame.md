@@ -16,7 +16,7 @@ tags: []
 
 ## About
 
-This is a tabletop game that my family and I created about a group of dragons and an adventure.
+This is a tabletop game that my family and I created about a group of dragons and the adventure of a band of villagers.
 
 ## Get It Now
 
