@@ -16,11 +16,11 @@ tags: []
 
 ## Information
 
-*Space Quest* is a game I created with my daughter for one of her school science projects.  The game was all her idea and she did all of the artwork, I helped scan her artwork for use in the game and taught her some basics of Unity as she learned some C# programming development.  It was a lot of fun working with her on this project and we are both very pleased with the result.
+**Space Quest** is a game I created with my daughter for one of her school science projects.  The game was all her idea and she did all of the artwork, I helped scan her artwork for use in the game and taught her some basics of Unity as she learned some C# programming development.  It was a lot of fun working with her on this project and we are both very pleased with the result.
 
 ## About The Game
 
-*Space Quest* is a game to help improve your typing skills.  Asteroids are falling toward the ground and the only way to stop them is to type out the correct answer to the question displayed.
+**Space Quest** is a game to help improve your typing skills.  Asteroids are falling toward the ground and the only way to stop them is to type out the correct answer to the question displayed.
  
 ## Get It Now
 
