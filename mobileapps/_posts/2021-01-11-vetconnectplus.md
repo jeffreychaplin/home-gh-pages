@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IDEXX VetConnect Plus
-image: /assets/img/vetconnectplus.png
+image: /assets/img/mobileapps/vetconnectplus.png
 description: >
   The go-to diagnostic resource for veterinarians and practice staff.
 sitemap: false
