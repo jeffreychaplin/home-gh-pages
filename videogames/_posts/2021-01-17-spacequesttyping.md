@@ -3,7 +3,7 @@ layout: post
 title: Space Quest
 image: /assets/img/videogames/SpaceQuestTyping.jpg
 description: >
-  A video game to help improve your typing skills.
+  A video game to help improve your typing skills while learning different subjects.
 sitemap: false
 categories: []
 tags: []
