@@ -2,17 +2,14 @@
 .sidebar a {
   text-shadow: rgba(0, 0, 0, 0.25) 0.1rem 0.1rem 0.15rem;
 }
-
 .sidebar-bg {
 	//background: linear-gradient(225deg, rgba(0,0,0,1) 0%, rgba(0,0,100,1) 80%);
 	background: linear-gradient(225deg, rgba(27,10,58,1) 0%, rgb(0, 92, 239) 80%);
 	background-position: center;
 }
-
 .sidebar-about {
 	margin-bottom: 3rem;
 }
-
 .sidebar-about .avatar {
 	width: 8rem;
 	height: 8rem;
@@ -24,30 +21,18 @@
 	padding: unset;
 	margin-bottom: 0.75rem;
 }
-
 .sidebar-about>a.sidebar-title {
     display: none;
 }
-
-//@media (display-mode: standalone) {
-//	.sidebar-about .avatar {
-//		width: 40rem;
-//		height: 40rem;
-//	}
-//}
-
 .layout-about img[src*="/assets/img/authors"]{
 	padding: 20px 10px;
 }
-
 .layout-about img[src*="/assets/img/tools"]{
 	padding: 20px;
 }
-
 img[src*="/assets/img/tabletopgames/thumbnail"]{
 	padding: 20px 10px;
 }
-
 iframe {
 	display: block;
 	width: 100vw;
@@ -58,26 +43,3 @@ iframe {
 	border: 0 none;
 	box-sizing: border-box;
 }
-
-
-
-//@media screen and (min-width: 1664px){
-//	.sidebar-about .avatar {
-//		width: 22rem;
-//		height: 22rem;
-//	}
-//	.sidebar-sticky {
-//		position: relative;
-//		z-index: 3;
-//		max-width: 36em;
-//		padding: 1.5rem;
-//		contain: content;
-//	}
-//}
-
-@media screen and (max-width: 42em){
-}
-
-@media screen and (max-width: 72em){
-}
-
