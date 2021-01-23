@@ -20,6 +20,6 @@ This is a tabletop game that my family and I created about a group of dragons an
 
 ## Get It Now
 
-This game will be available soon from The Game Crafter.
+This game will be available soon from The Game Crafter.  More information to come at a later date.
 
  
