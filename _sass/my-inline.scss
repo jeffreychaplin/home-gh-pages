@@ -44,6 +44,10 @@
 	padding: 20px;
 }
 
+img[src*="/assets/img/tabletopgames/thumbnail"]{
+	padding: 20px 10px;
+}
+
 iframe {
 	display: block;
 	width: 100vw;
