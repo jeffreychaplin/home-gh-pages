@@ -18,7 +18,7 @@ tags: []
 
 **The Circuit** is a game I created for Ludum Dare 39 during the weekend of Friday July 28th 2017.  The theme for Ludum Dare 39 was *"Running out of Power"*.  
 
-This was my first game jam competition... and it was so much fun!  Thanks Justin for talking me into doing it!
+This was my first game jam competition.
 
 ## About The Game
 
