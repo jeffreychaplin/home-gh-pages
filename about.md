@@ -19,13 +19,13 @@ Currently I'm working on mobile apps, video games and tabletop games (with my fa
 
 ## Programs / Services
 
-Below are some programs and services that I have experience using:
+Below are some programs and services that I have experience using.
 
-![Unity]({{ site.baseurl }}/assets/img/tools/LinkUnity.png "Unity")
-![Ionic]({{ site.baseurl }}/assets/img/tools/LinkIonic.png "Ionic")
-![Blender]({{ site.baseurl }}/assets/img/tools/LinkBlender.png "Blender")
-![Gimp]({{ site.baseurl }}/assets/img/tools/LinkGimp.png "Gimp")
-![Inkscape]({{ site.baseurl }}/assets/img/tools/LinkInkscape.png "Inkscape")
-![Audacity]({{ site.baseurl }}/assets/img/tools/LinkAudacity.png "Audacity")
-![DaVinciResolve]({{ site.baseurl }}/assets/img/tools/LinkDaVinciResolve.png "DaVinci Resolve")
-![TheGameCrafter]({{ site.baseurl }}/assets/img/tools/LinkTheGameCrafter.png "The Game Crafter")
+[![Unity]({{ site.baseurl }}/assets/img/tools/LinkUnity.png "Unity")](https://unity.com/){:target="_blank" : .no-mark}
+[![Ionic]({{ site.baseurl }}/assets/img/tools/LinkIonic.png "Ionic")](https://ionicframework.com/){:target="_blank" : .no-mark}
+[![Blender]({{ site.baseurl }}/assets/img/tools/LinkBlender.png "Blender")](https://www.blender.org/){:target="_blank" : .no-mark}
+[![Gimp]({{ site.baseurl }}/assets/img/tools/LinkGimp.png "Gimp")](https://www.gimp.org/){:target="_blank" : .no-mark}
+[![Inkscape]({{ site.baseurl }}/assets/img/tools/LinkInkscape.png "Inkscape")](https://inkscape.org/){:target="_blank" : .no-mark}
+[![Audacity]({{ site.baseurl }}/assets/img/tools/LinkAudacity.png "Audacity")](https://www.audacityteam.org/){:target="_blank" : .no-mark}
+[![DaVinciResolve]({{ site.baseurl }}/assets/img/tools/LinkDaVinciResolve.png "DaVinci Resolve")](https://www.blackmagicdesign.com/products/davinciresolve/){:target="_blank" : .no-mark}
+[![TheGameCrafter]({{ site.baseurl }}/assets/img/tools/LinkTheGameCrafter.png "The Game Crafter")](https://www.thegamecrafter.com/){:target="_blank" : .no-mark}
