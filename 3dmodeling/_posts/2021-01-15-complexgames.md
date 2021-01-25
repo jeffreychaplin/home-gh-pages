@@ -16,7 +16,9 @@ tags: []
 
 ## Information
 
-In 2001, I created various low-poly 3d Models for [Complex Games](http://complexgames.com/){:target="_blank"}.  Using sketches provided, I modeled, textured mapped, and rigged the models.  Please see below for a sampling of the 3d models that I created for Complex Games.  All communication was done through email.
+In 2001, I created various low-poly 3d Models for [Complex Games](http://complexgames.com/){:target="_blank"}.  Using sketches provided, I modeled, textured mapped, and rigged the models when required.  All communication was done through email.
+
+Please see below for a sampling of the 3d models that I created for Complex Games.
 
 ![simple weapons]({{ site.baseurl }}/assets/img/3dmodeling/simpleweapons.jpg)
 
