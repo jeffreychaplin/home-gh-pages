@@ -25,7 +25,9 @@
     display: none;
 }
 .layout-about img[src*="/assets/img/authors"]{
-	padding: 20px 10px;
+	padding: 1rem 0.5rem;
+    width: 9rem;
+    height: 10rem;
 }
 .layout-about img[src*="/assets/img/tools"]{
 	padding: 20px;

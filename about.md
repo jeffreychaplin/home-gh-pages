@@ -15,7 +15,7 @@ Most recently I have been working professionally as a mobile hybrid app develope
 
 Currently I'm working on mobile apps, video games and tabletop games (with my family). 
 
-![Jeffrey](/assets/img/authors/jeffrey-128.png)
+![Jeffrey](/assets/img/authors/jeffrey-256.png)
 
 ## Programs / Services
 
