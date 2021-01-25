@@ -17,7 +17,7 @@ Currently I'm working on mobile apps, video games and tabletop games (with my fa
 
 ![Jeffrey](/assets/img/authors/jeffrey-128.png)
 
-## Tools / Services
+## Programs / Services
 
 Below are programs and services that I have experience using:
 
