@@ -20,10 +20,6 @@ tags: []
 
 This was my first game jam competition... and it was so much fun!  Thanks Justin for talking me into doing it!
 
-## Ludum Dare
-
-[Ludum Dare](https://ldjam.com/){:target="_blank"} is an online event where games are made from scratch in a weekend.
-
 ## About The Game
 
 You are the orange charge. Avoid the red charge. Use the 1, 2 and 3 keys to move to an adjacent wire while over an electrical arc. Collect sparks and… *Don’t run out of power!*
@@ -43,3 +39,7 @@ Use the links below to play **The Circuit**.
 [Play In Browser](https://jeffreychaplin.github.io/){:target="_blank"}
 
 [My Ludum Dare 39 Entry](https://ldjam.com/events/ludum-dare/39/the-circuit){:target="_blank"}
+
+## Ludum Dare
+
+[Ludum Dare](https://ldjam.com/){:target="_blank"} is an online event where games are made from scratch in a weekend.

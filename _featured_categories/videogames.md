@@ -10,7 +10,7 @@ slug: videogames
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  These are some of the video games that I've created.
+  Please click below for a sampling of video games that I have created.
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true

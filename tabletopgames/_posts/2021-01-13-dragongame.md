@@ -18,7 +18,7 @@ tags: []
 
 This is a tabletop game that my family and I created about a group of dragons and the adventure of some villagers.
 
-Here is a little look at the dragons.
+Below is a sample of the dragon cards used in the game.
 
 ![Red Dragon]({{ site.baseurl }}/assets/img/tabletopgames/thumbnail/TheGameCrafter_TileRedDragon.png)
 ![Green Dragon]({{ site.baseurl }}/assets/img/tabletopgames/thumbnail/TheGameCrafter_TileGreenDragon.png)

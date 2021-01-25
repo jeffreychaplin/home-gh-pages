@@ -16,4 +16,4 @@ tags: []
 
 ## About The Game
 
-**Math Animals** is a game I created for my daughters when they were young to help them improve their math skills.  More stars are earned when the correct answer is selected and the number of stars earned drops for each incorrect answer. They enjoyed collecting the stars and revealing the different animals.
+**Math Animals** is a game I created for my daughters when they were young to help them improve their math skills.  More stars are earned when the correct answer is selected and the number of stars earned drops for each incorrect answer.
