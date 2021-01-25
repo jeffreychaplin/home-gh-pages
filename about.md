@@ -19,7 +19,7 @@ Currently I'm working on mobile apps, video games and tabletop games (with my fa
 
 ## Programs / Services
 
-Below are programs and services that I have experience using:
+Below are some programs and services that I have experience using:
 
 ![Unity]({{ site.baseurl }}/assets/img/tools/LinkUnity.png "Unity")
 ![Ionic]({{ site.baseurl }}/assets/img/tools/LinkIonic.png "Ionic")

@@ -18,7 +18,7 @@ tags: []
 
 **Space Miner Niner** is a game I originally created for Ludum Dare 40 during the weekend of Friday December 1st 2017.  The theme for Ludum Dare 40 was *"The more you have, the worse it is"*.  
 
-The game is an asteroids type game and beyond the initial Ludum Dare 40 game development time, **Space Miner Niner** has been completed through additional researching, code development and testing.
+This is an asteroids type game and beyond the initial Ludum Dare 40 game development time, **Space Miner Niner** has been made into a more complete game through additional researching, code development and testing.
 
 ## About The Game
 
