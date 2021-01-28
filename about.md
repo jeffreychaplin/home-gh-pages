@@ -10,10 +10,10 @@ redirect_from:
 
 Hi!
 
-My name is Jeffrey Chaplin and I've been a software developer for over 30+ years.
+My name is Jeffrey Chaplin and I've been a software developer for 30+ years.
 Most recently I have been working professionally as a mobile hybrid app developer and .NET developer.  I've also been developing my own projects in Unity.
 
-Currently I'm working on mobile apps, video games and tabletop games (with my family). 
+Currently I'm working on creating mobile apps, video games and tabletop games with my family. 
 
 ![Jeffrey](/assets/img/authors/jeffrey-256.png)
 
