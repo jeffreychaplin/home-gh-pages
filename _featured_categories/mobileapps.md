@@ -10,7 +10,7 @@ slug: mobileapps
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Please click below for information on mobile apps that I have created, both professionally and personally.
+  Please click below for information on mobile apps that I have created and/or worked on, both professionally and personally.
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true

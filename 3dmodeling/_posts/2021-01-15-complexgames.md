@@ -16,7 +16,7 @@ tags: []
 
 ## Information
 
-In 2001, I created various low-poly 3d models for [Complex Games](http://complexgames.com/){:target="_blank"}.  Using sketches provided, I modeled, textured mapped, and rigged the models when required.  All communication was done through email.
+In 2001, I created various low-poly 3d models for a game called **Dungeon: Gladiator** that was being worked on by a company called [Complex Games](http://complexgames.com/){:target="_blank"}.  Using sketches provided, I modeled, textured mapped, and rigged the models when required.  All communication was done through email.
 
 Please see below for a sketch example and sampling of the 3d models that I created for Complex Games.
 
