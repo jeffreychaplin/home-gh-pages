@@ -25,9 +25,9 @@ Below is a sample of the dragon cards used in the game.
 ![Blue Dragon]({{ site.baseurl }}/assets/img/tabletopgames/thumbnail/TheGameCrafter_TileBlueDragon.png)
 ![Black Dragon]({{ site.baseurl }}/assets/img/tabletopgames/thumbnail/TheGameCrafter_TileBlackDragon.png)
 
-More information about the game to come at a later date.
+Actual game name and more information to come at a later date.
 
-## Get It Now
+## Get It Soon
 
 This game will be available soon from The Game Crafter.
 

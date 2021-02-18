@@ -28,7 +28,7 @@ tags: []
 
 </div>
 
-## Get It Now
+## Play It Now
 
 Use the links below to play **Space Quest**.
 

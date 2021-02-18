@@ -30,7 +30,7 @@ You are the orange charge. Avoid the red charge. Use the 1, 2 and 3 keys to move
 
 </div>
 
-## Get It Now
+## Play It Now
 
 Use the links below to play **The Circuit**.
 
