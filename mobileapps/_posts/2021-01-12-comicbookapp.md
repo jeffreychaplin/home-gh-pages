@@ -16,5 +16,7 @@ tags: []
 
 ## Information
 
-I created an Android hybrid app 5+ years ago to keep track of comic book collections.  The app has been shared with fellow comic book collectors to test the app. An update to the app is currently in development.
+I created an Android hybrid app 5+ years ago to keep track of comic book collections.  The app has been shared with fellow comic book collectors to test the app. 
+
+An update to the app is currently in development.
  

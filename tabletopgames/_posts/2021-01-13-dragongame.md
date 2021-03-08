@@ -29,6 +29,8 @@ Actual game name and more information to come at a later date.
 
 ## Get It Soon
 
-This game will be available soon from The Game Crafter.
+This game will be available soon from [The Game Crafter](https://www.thegamecrafter.com/){:target="_blank"}.
 
- 
+## The Game Crafter
+
+[The Game Crafter](https://www.thegamecrafter.com/){:target="_blank"} offers game designers an easy-to-use system to make a board game, card game, or custom playing cards.
