@@ -36,7 +36,7 @@ Use the links below to play **The Circuit**.
 
 ***NOTE:***  *The game in a browser can load/play quite a bit slower than when played locally.*
 
-[Play In Browser](https://jeffreychaplin.github.io/){:target="_blank"}
+[Play In Browser](https://jeffreychaplin.github.io/LudumDare39_TheCircuit){:target="_blank"}
 
 [My Ludum Dare 39 Entry](https://ldjam.com/events/ludum-dare/39/the-circuit){:target="_blank"}
 
