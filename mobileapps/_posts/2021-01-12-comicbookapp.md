@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comic Book Collection App
+title: Comic Book Collection
 image: 
 description: >
   A mobile app to help keep track of your comic book collection.
