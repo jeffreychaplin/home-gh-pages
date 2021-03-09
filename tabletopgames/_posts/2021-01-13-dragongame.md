@@ -3,7 +3,7 @@ layout: post
 title: A Dragon Game
 image: /assets/img/tabletopgames/TheGameCrafter_ShopBackdrop.png
 description: >
-  A game about a group of dragons.
+  A game about a group of dragons and a band of villagers.
 sitemap: false
 categories: []
 tags: []
