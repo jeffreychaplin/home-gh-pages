@@ -16,7 +16,7 @@ tags: []
 
 ## Information
 
-**Space Quest** is a game I created with my daughter for one of her school science projects.  The artwork for the game was created by my daughter, as well as the idea of the game.  I taught her the basics of Unity and C# programming development to help her in developing the code for the game.  This project led to my daughter being invited to attend our State's Annual MLTI Student Conference hosted by the Department of Education.
+**Space Quest** is a game I created with my daughter for one of her school science projects.  The artwork for the game was created by my daughter, as well as the idea of the game.  I taught her the basics of Unity and C# programming to help her in developing the code for the game.  This project led to my daughter being invited to attend our State's Annual MLTI Student Conference hosted by the Department of Education.
 
 ## About The Game
 
