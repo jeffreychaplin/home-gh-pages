@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Space Miner Niner
-image: /assets/img/blog/SpaceMinerNinerStill_00.png
+image: /assets/img/videogames/SpaceMinerNinerStill_00.png
 description: >
   A video game set in space.
 sitemap: false
