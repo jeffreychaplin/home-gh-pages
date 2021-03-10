@@ -58,6 +58,8 @@ menu:
     url:               /tabletopgames/
   - title:             3d Modeling
     url:               /3dmodeling/  
+  - title:             Animation
+    url:               /animation/      
   - title:             About
     url:               /about/
 
