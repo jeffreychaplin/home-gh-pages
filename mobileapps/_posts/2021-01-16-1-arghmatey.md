@@ -7,6 +7,7 @@ description: >
 sitemap: false
 categories: []
 tags: []
+related_posts: /
 ---
 
 {:.lead}
