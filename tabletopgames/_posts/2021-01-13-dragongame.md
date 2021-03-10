@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Dragon Game
+title: A Game About Dragons
 image: /assets/img/tabletopgames/TheGameCrafter_ShopBackdrop.png
 description: >
   A game about a group of dragons and a band of villagers.
@@ -16,7 +16,7 @@ tags: []
 
 ## About
 
-This is a tabletop game that my family and I created about a group of dragons and the adventure of some villagers.
+This is a tabletop game that my family and I created about a group of dragons and a band of villagers.
 
 Below is a sample of the dragon cards used in the game.
 
