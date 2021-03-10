@@ -16,7 +16,7 @@ tags: []
 
 ## Information
 
-This animation is a collision test.
+This is a collision test animation.
 
 <div class="lead aspect-ratio sixteen-nine">
           
