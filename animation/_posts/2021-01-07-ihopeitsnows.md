@@ -17,7 +17,7 @@ related_posts: /
 
 ## Information
 
-This is a lip sync test animation.
+This is a lip sync test animation I made in Blender.
 
 <div class="lead aspect-ratio sixteen-nine">
           

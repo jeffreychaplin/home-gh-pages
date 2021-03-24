@@ -10,7 +10,7 @@ slug: 3dmodeling
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Please click below for information on 3d models that I have created.
+  Please click below for information on 3d models that I created.
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true

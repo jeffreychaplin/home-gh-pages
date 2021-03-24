@@ -10,7 +10,7 @@ slug: animation
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Please click below for information on animation that I have created.
+  Please click below for information on animation that I created.
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true

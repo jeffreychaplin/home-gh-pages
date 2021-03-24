@@ -17,7 +17,7 @@ related_posts: /
 
 ## Information
 
-I created this Android AR (augmented reality) code-breaking app to learn how to create a multi-player AR game.  It is still currently single player and far from final, but it is playable.  
+I created this Android AR (augmented reality) code-breaking app to learn how to create a multi-player AR game.  It is currently still single player and far from final, but it is playable.  
 
 This game will be undergoing additional code development and testing to refine the game further.
 
