@@ -33,7 +33,7 @@ You are the orange charge. Avoid the red charge. Use the 1, 2 and 3 keys to move
 
 ## Play It Now
 
-Use the links below to play **The Circuit**.
+Use the links below to play **The Circuit**.  A keyboard is required to play.
 
 ***NOTE:***  *The game in a browser can load/play quite a bit slower than when played locally.*
 

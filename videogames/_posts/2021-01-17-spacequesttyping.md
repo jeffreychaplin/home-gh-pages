@@ -31,7 +31,7 @@ related_posts: /
 
 ## Play It Now
 
-Use the link below to play **Space Quest**.
+Use the link below to play **Space Quest**.  A keyboard is required to play.
 
 ***NOTE:***  *The game in a browser can load/play quite a bit slower than when played locally.*
 

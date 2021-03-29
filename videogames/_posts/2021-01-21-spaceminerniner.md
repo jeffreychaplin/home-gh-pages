@@ -39,7 +39,7 @@ SPACE MINER NINER!
 
 ## Play It Now
 
-Use the links below to play **Space Miner Niner**.
+Use the links below to play **Space Miner Niner**.  A keyboard is required to play.
 
 ***NOTE:***  *The game in a browser can load/play quite a bit slower than when played locally.*
 
