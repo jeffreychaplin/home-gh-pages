@@ -21,6 +21,8 @@ related_posts: /
 
 ## About The Game
 
+**Memory Cards** is a test for a possible memory matching video game that would be used on a large touch screen monitor.
+
 <div class="lead aspect-ratio sixteen-nine">
           
 <iframe width="1903" height="711" src="https://www.youtube.com/embed/_LxF1hIajpw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
